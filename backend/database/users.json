@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "username": "asd",
+        "password": "asd",
+        "fullname": "wef",
+        "age": "fwe",
+        "email": "wef",
+        "gender": "wef"
+    },
+    {
+        "id": 2,
+        "username": "Hello",
+        "password": "",
+        "fullname": "",
+        "age": "",
+        "email": "",
+        "gender": ""
+    },
+    {
+        "id": 4,
+        "username": "Megaman",
+        "password": "oksdfk",
+        "fullname": "Wehavechanged ",
+        "age": 34,
+        "email": "uiofdasdedde@gmail.com",
+        "gender": "M"
+    }
+]

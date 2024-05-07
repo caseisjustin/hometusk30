@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "tittle": "Dangerous climate",
+        "slug": "dangerous-climate",
+        "content": "disaster",
+        "tags": "danger, death, end of world",
+        "comments": [
+            {
+                "user_id": 3,
+                "comments": "I can't believe"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tittle": "string",
+        "slug": "string",
+        "content": "string",
+        "tags": "string",
+        "comments": [
+            {
+                "user_id": 1,
+                "comments": "string"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "tittle": "Something",
+        "slug": "Somewhere",
+        "content": "happened",
+        "tags": "nonsense",
+        "comments": [
+            {
+                "user_id": 2,
+                "comments": "Wait for me"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "tittle": "Something",
+        "slug": "Somewhere",
+        "content": "happened",
+        "tags": "nonsense",
+        "comments": [
+            {
+                "user_id": 5,
+                "comments": "Wait for me"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "tittle": "Something",
+        "slug": "Somewhere",
+        "content": "happened",
+        "tags": "nonsense",
+        "comments": [
+            {
+                "user_id": 6,
+                "comments": "Wait for me"
+            }
+        ]
+    }
+]
