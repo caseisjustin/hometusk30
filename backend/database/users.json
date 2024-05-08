@@ -11,11 +11,11 @@
     {
         "id": 2,
         "username": "Hello",
-        "password": "",
-        "fullname": "",
-        "age": "",
-        "email": "",
-        "gender": ""
+        "password": "d",
+        "fullname": "eth",
+        "age": "lui",
+        "email": "afe@gmail.nom",
+        "gender": "m"
     },
     {
         "id": 4,
